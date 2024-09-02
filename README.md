@@ -55,5 +55,6 @@ git push origin feature/your-feature-name
 5. Open a pull request.
    Please make sure your code adheres to our coding standards and includes relevant tests.
 
-   
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
