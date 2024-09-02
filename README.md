@@ -35,4 +35,25 @@ npm start
 - **Rate and Review**: After trying a recipe, leave a rating and review to share your experience.
 - **Save Favorites**: Click the heart icon on a recipe to add it to your favorites list.
 
+## Contributing
+
+We welcome contributions to Recipe Hub! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit them:
+  ```bash
+  git commit -m 'Add some feature'
+  ```
+4. Push to the branch:
+```bash
+git push origin feature/your-feature-name
+```
+5. Open a pull request.
+   Please make sure your code adheres to our coding standards and includes relevant tests.
+
+   
 
