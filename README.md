@@ -10,3 +10,23 @@
 - **Ratings and Reviews**: Rate and review recipes to help others discover the best dishes.
 - **Favorite Recipes**: Save your favorite recipes for quick access.
 - **Community Interaction**: Follow other cooks, comment on recipes, and join forums.
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/trevornelson007/recipe-hub.git
+Navigate to the project directory:
+Copy code
+cd recipe-hub
+Install dependencies:
+Copy code
+npm install
+Start the development server:
+Copy code
+npm start
+The application will be running on http://localhost:3000.
+
