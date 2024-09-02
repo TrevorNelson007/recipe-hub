@@ -19,14 +19,11 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/trevornelson007/recipe-hub.git
-Navigate to the project directory:
-Copy code
+## Navigate to the project directory
 cd recipe-hub
-Install dependencies:
-Copy code
+## Install dependencies:
 npm install
-Start the development server:
-Copy code
+## Start the development server:
 npm start
-The application will be running on http://localhost:3000.
+## The application will be running on http://localhost:3000.
 
