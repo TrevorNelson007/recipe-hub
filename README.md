@@ -27,3 +27,12 @@ npm install
 npm start
 ## The application will be running on http://localhost:3000.
 
+```
+## Usage
+
+- **Submit a Recipe**: Click on "Add Recipe" in the navigation bar and fill out the form with your recipe details.
+- **Search for Recipes**: Use the search bar to find recipes by ingredients, cuisine, or difficulty.
+- **Rate and Review**: After trying a recipe, leave a rating and review to share your experience.
+- **Save Favorites**: Click the heart icon on a recipe to add it to your favorites list.
+
+
